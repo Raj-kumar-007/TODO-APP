@@ -1,5 +1,4 @@
 import type { FC } from "react";
-import type { Todo } from "../../types/Todo";
 import SearchBar from "../searchBar/SearchBar";
 
 type Props = {
