@@ -1,6 +1,7 @@
 .todo-Style {
-    display: flex;
-    flex-direction: column;
-    padding: 5px;
-    
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  gap: 5px;
+  justify-content: center;
 }

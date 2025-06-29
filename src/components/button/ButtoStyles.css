@@ -1,5 +1,7 @@
 .button-styles {
-    color: green;
-    padding: 5px;
-    margin: 5px;
+  color: #000;
+  font: inherit;
+  padding: 5px;
+  margin: 5px;
+  background-color: skyblue;
 }
